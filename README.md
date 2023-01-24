@@ -1,2 +1,2 @@
 # Workaholics
-Removes the need for colonists to sleep so they work all throughout the night
+Removes the need for colonists to sleep so they can work all throughout the night
