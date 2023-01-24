@@ -1,0 +1,12 @@
+﻿[
+
+  {
+    "name": "Workaholics",
+    "description": "Removes the need for colonists to sleep so they can work all throughout the night",
+    "version": "0.1.0.0",
+    "dllpath": "Workaholics.dll",
+    "compatibleversions": [
+      "0.9.0"
+    ]
+  }
+]
